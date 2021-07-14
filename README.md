@@ -441,6 +441,10 @@ Initially created by [Marko Denic](https://markodenic.com) on [Twitter](https://
 
 | Website | Description |
 | ------- | ------ |
+| [Material UI](https://material-ui.com/) | React components for faster and easier web development. Build your own design system, or start with Material Design. |
+| [Chakra UI](https://chakra-ui.com/) | Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications. |
+| [Ant Design](https://ant.design/) | A design system for enterprise-level products. Create an efficient and enjoyable work experience |
+| [Semantic UI](https://react.semantic-ui.com/) | Simple but feature rich react UI library |
 
 [⬆ back to top](#table-of-contents)
 
